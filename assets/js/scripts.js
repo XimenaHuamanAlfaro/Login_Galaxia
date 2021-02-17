@@ -30,7 +30,7 @@ function register(){
 
     if(window.innerWidth > 850){
         formulario_register.style.display = "block";
-        contenedor_login_register.style.left ="460px"
+        contenedor_login_register.style.left ="410px"
         formulario_login.style.display = "none";
         cajatrasera_register.style.opacity = "0";
         cajatrasera_login.style.opacity = "1"; 
